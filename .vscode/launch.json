@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - POLARRegistration",
+            "request": "launch",
+            "mainClass": "plugin.POLARRegistration",
+            "projectName": "Descriptor_based_registration"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - POLARMatching",
+            "request": "launch",
+            "mainClass": "process.POLARMatching",
+            "projectName": "POLARRegistration"
+        }
+    ]
+}

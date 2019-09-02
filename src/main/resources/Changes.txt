@@ -1,0 +1,7 @@
+Change final int transformationModelIndex to 3;
+
+Take out the if in //if ( defaultTransformationModel >= transformationModel.length )
+		//	defaultTransformationModel = 1;
+		
+		//if ( defaultRegularizationTransformationModel >= transformationModel.length  )
+		//	defaultRegularizationTransformationModel = 1;
