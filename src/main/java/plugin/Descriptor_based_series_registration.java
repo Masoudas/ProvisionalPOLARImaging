@@ -29,6 +29,7 @@ import mpicbg.spim.segmentation.InteractiveDoG;
 import process.POLARMatching;
 import process.OverlayFusion;
 
+
 public class Descriptor_based_series_registration implements PlugIn
 {
 	final static protected String myURL = "http://preibischlab.mdc-berlin.de";

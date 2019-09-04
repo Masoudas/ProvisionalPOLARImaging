@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ImageExcerpterGUI",
+            "request": "launch",
+            "mainClass": "plugin.ImageExcerpterGUI",
+            "projectName": "POLAR_Imaging"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImageExcerpterGUI",
+            "request": "launch",
+            "mainClass": "process.ImageExcerpterGUI",
+            "projectName": "POLAR_Imaging"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - POLARRegistration",
             "request": "launch",
             "mainClass": "plugin.POLARRegistration",
